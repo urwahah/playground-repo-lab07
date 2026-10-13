@@ -7,6 +7,9 @@ without the stress of potentially breaking something.
 - Dependencies: R 4.6.1
 - Run the script with `Rscript analysis.R` in the terminal
 
+## Authors
+urwahah + oldeuclid
+
 ## What's in here
 
 This repo simulates a tiny, real-ish data science project:
